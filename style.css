@@ -1,0 +1,48 @@
+div .branch {
+  background-color: #008000;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  height: 60px;
+  border-radius: 30px
+}
+
+div .branch-0 {
+  width: 60px;
+}
+
+div .branch-1 {
+  width: 120px;
+}
+
+div .branch-2 {
+  width: 240px;
+}
+
+div .branch-3 {
+  width: 360px
+}
+
+div .branch-4 {
+  width: 480px
+}
+
+div .branch-5 {
+  width: 600px
+}
+
+div .branch-6 {
+  width: 720px
+}
+
+div .trunk {
+  background-color: #A52A2A;
+  height: 240px;
+  width: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  border-radius: 30px
+}
